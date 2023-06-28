@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "Aoptbdtvc"]
 	path = Aoptbdtvc
 	url = https://github.com/cran/Aoptbdtvc
-	shallow = true
-	registered = true
 [submodule "extlasso"]
 	path = extlasso
 	url = https://github.com/cran/extlasso
-	shallow = true
-	registered = true
 [submodule "ibd"]
 	path = ibd
 	url = https://github.com/cran/ibd
-	shallow = true
-	registered = true
 [submodule "ispd"]
 	path = ispd
 	url = https://github.com/cran/ispd
-	shallow = true
-	registered = true
 [submodule "mkssd"]
 	path = mkssd
 	url = https://github.com/cran/mkssd
-	shallow = true
-	registered = true
 [submodule "mxkssd"]
 	path = mxkssd
 	url = https://github.com/cran/mxkssd
-	shallow = true
-	registered = true
 [submodule "nnlasso"]
 	path = nnlasso
 	url = https://github.com/cran/nnlasso
-	shallow = true
-	registered = true
 [submodule "normalizeH"]
 	path = normalizeH
 	url = https://github.com/cran/normalizeH
-	shallow = true
-	registered = true
 [submodule "pbbd"]
 	path = pbbd
 	url = https://github.com/cran/pbbd
-	shallow = true
-	registered = true
 [submodule "pcg"]
 	path = pcg
 	url = https://github.com/cran/pcg
-	shallow = true
-	registered = true
