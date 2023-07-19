@@ -32,3 +32,6 @@
 [submodule "pcg"]
 	path = pcg
 	url = https://github.com/cran/pcg
+[submodule "slr"]
+	path = slr
+	url = https://github.com/cran/slr
