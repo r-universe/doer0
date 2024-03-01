@@ -5,6 +5,9 @@
 [submodule "Aoptbdtvc"]
 	path = Aoptbdtvc
 	url = https://github.com/cran/Aoptbdtvc
+[submodule "SlicedLHD"]
+	path = SlicedLHD
+	url = https://github.com/cran/SlicedLHD
 [submodule "extlasso"]
 	path = extlasso
 	url = https://github.com/cran/extlasso
