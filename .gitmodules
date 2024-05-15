@@ -8,6 +8,9 @@
 [submodule "SlicedLHD"]
 	path = SlicedLHD
 	url = https://github.com/cran/SlicedLHD
+[submodule "doofa"]
+	path = doofa
+	url = https://github.com/cran/doofa
 [submodule "extlasso"]
 	path = extlasso
 	url = https://github.com/cran/extlasso
