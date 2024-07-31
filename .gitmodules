@@ -20,6 +20,9 @@
 [submodule "ispd"]
 	path = ispd
 	url = https://github.com/cran/ispd
+[submodule "mixOofA"]
+	path = mixOofA
+	url = https://github.com/cran/mixOofA
 [submodule "mkssd"]
 	path = mkssd
 	url = https://github.com/cran/mkssd
